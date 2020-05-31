@@ -11,3 +11,4 @@ I'm the GitHub Learning Lab bot and I'm here to help guide you in your journey t
 I'll meet you over there, can't wait to get started!
 
 This course is using the :sparkles: open source project [reveal.js](https://github.com/hakimel/reveal.js/). In some cases we’ve made changes to the history so it would behave during class, so head to the original project repo to learn more about the cool people behind this project.
+Hello I am hoping to make some cash doing these courses.I have been out of work for a really long time now and I don't want to draw unemployment, I just want to make it work by working and helping others. Since I don't have a vehicle, I thought this could be a respectful and good opportunity to learn new skills plus make extra cash. Hope all works out for everyone.    Sincerely Appreciate, KimberlyEE
